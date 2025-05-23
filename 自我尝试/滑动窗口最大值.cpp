@@ -2,6 +2,8 @@
 #include <vector>
 using namespace std; 
 
+
+//≥¨ ±¡À 
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
@@ -48,6 +50,7 @@ public:
     return out;
 }
 };
+
 
 int main(){
 	vector<int> nums = {1,-1};
